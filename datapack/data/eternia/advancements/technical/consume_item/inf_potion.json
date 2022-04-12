@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{eternia:{id:\"inf_invisibility\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "eternia:item/inf_invisibility/item"
+  }
+}

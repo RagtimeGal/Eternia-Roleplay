@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:14b,Amplifier:0b,Duration:6000}],eternia:{id:\"inf_invisibility\"},Potion:\"minecraft:invisibility\"}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.eternia.inf_invisibility",
+                "italic": false
+              }
+            }
+          ],
+          "name": "minecraft:potion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": [
+              "minecraft:crossbow"
+            ],
+            "nbt": "{eternia:{id:\"harp_crossbow\"},ChargedProjectiles:[{id:\"minecraft:tipped_arrow\",Count:1b,tag:{CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:0}]}},{},{}],Charged:1b}"
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "minecraft:crossbow"
+            ],
+            "nbt": "{eternia:{id:\"harp_crossbow\"},ChargedProjectiles:[{id:\"minecraft:tipped_arrow\",Count:1b,tag:{CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:0}]}},{},{}],Charged:1b}"
+          }
+        }
+      }
+    }
+  ]
+}
