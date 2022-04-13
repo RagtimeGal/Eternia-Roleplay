@@ -8,7 +8,8 @@
   "item.eternia.regenerative_invisibility": "Regenerative Potion of Invisibility",
   "item.eternia.regenerating_invisibility": "Regenerating Potion of Invisibility",
 
-  "actionbar.eternia.alchemical_coal.non_smither": "Perhaps you shouldn't be eating coal",
+  "actionbar.eternia.alchemical_coal.non_smither": "Perhaps you shouldn't be eating this",
   "actionbar.eternia.regenerating_invisibility.regenerating": "The bottle is %s/%s full",
-  "actionbar.eternia.regenerating_invisibility.regenerated": "The potion has regenerated"
+  "actionbar.eternia.regenerating_invisibility.regenerated": "The potion has regenerated",
+  "actionbar.eternia.smither.food_item": "The food clogs your cogs"
 }

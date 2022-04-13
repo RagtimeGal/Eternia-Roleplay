@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:tropical_fish"
+          ],
+          "nbt": "{eternia:{id:\"alchemical_coal\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "eternia:item/alchemical_coal"
+  }
+}
