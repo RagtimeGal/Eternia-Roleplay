@@ -1,10 +1,8 @@
--####################
+####################
 # Scans the first inventory slot
 ####################
 
-## Store Item
-data modify storage eternia:storage root.temp.item set from entity @s Inventory[{Slot:9b}]
-
+scoreboard players reset @s eternia.temp
 ## Scan
 # Coal Ore
 execute if data storage eternia:storage root.temp.item{id:"minecraft:coal_ore"} run scoreboard players set @s eternia.temp 1
