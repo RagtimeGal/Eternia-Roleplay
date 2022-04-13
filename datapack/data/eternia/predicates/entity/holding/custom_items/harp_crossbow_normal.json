@@ -10,7 +10,7 @@
             "items": [
               "minecraft:crossbow"
             ],
-            "nbt": "{eternia:{id:\"harp_crossbow\"},Charged:1b}"
+            "nbt": "{eternia:{id:\"harp_crossbow\"},ChargedProjectiles:[{id:\"minecraft:tipped_arrow\",Count:1b,tag:{CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:0}]}},{},{}],Charged:1b}"
           }
         }
       }
@@ -24,7 +24,7 @@
             "items": [
               "minecraft:crossbow"
             ],
-            "nbt": "{eternia:{id:\"harp_crossbow\"},Charged:1b}"
+            "nbt": "{eternia:{id:\"harp_crossbow\"},ChargedProjectiles:[{id:\"minecraft:tipped_arrow\",Count:1b,tag:{CustomPotionEffects:[{Id:6b,Amplifier:1b,Duration:0}]}},{},{}],Charged:1b}"
           }
         }
       }
