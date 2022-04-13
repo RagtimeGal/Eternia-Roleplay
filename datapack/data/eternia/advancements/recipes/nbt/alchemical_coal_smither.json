@@ -1,0 +1,26 @@
+{
+  "parent": "eternia:recipes/nbt/root",
+  "rewards": {
+    "function": "eternia:entity/player/nbt_recipe/crafted_item",
+    "loot": [
+      "eternia:recipes/alchemical_coal"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "eternia:nbt/alchemical_coal",
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"eternia.class.smither\"]}"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

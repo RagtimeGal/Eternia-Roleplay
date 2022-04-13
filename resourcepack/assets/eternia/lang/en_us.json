@@ -2,10 +2,13 @@
   "item.minecraft.knowledge_book": "Click to Craft",
   "pack.eternia": "Eternia Roleplay",
 
+  "item.eternia.alchemical_coal": "Alchemical Coal",
+  "item.eternia.alchemical_coal.lore": "A potent fuel - not for living consumption",
   "item.eternia.harp_crossbow": "Harp Crossbow",
   "item.eternia.regenerative_invisibility": "Regenerative Potion of Invisibility",
   "item.eternia.regenerating_invisibility": "Regenerating Potion of Invisibility",
 
+  "actionbar.eternia.alchemical_coal.non_smither": "Perhaps you shouldn't be eating coal",
   "actionbar.eternia.regenerating_invisibility.regenerating": "The bottle is %s/%s full",
   "actionbar.eternia.regenerating_invisibility.regenerated": "The potion has regenerated"
 }
