@@ -23,3 +23,7 @@ title @a actionbar {"translate":"actionbar.eternia.regenerating_invisibility.reg
 ## Replace with renerative invisibility once fullness matches
 execute if score @s eternia.temp = temp eternia.temp run title @s actionbar {"translate":"actionbar.eternia.regenerating_invisibility.regenerated"}
 execute if score @s eternia.temp = temp eternia.temp run loot replace entity @s weapon.offhand loot eternia:items/regenerative_invisibility
+
+# Reset Scoreboard
+scoreboard players reset @s eternia.temp
+scoreboard players reset temp eternia.temp
