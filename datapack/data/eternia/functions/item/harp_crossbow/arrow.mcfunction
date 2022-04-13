@@ -3,4 +3,5 @@
 ####################
 
 execute as @e[type=arrow,limit=1,sort=nearest,nbt={inGround:0b}] run function eternia:item/harp_crossbow/modify_arrow
-scoreboard players reset @s eternia.used_crossbow
+advancement revoke @s only eternia:technical/shot_crossbow/harp_crossbow
+say shot

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "fired_crossbow": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:crossbow"
+          ],
+          "nbt": "{eternia:{id:\"harp_crossbow\"}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "eternia:item/harp_crossbow/arrow"
+  }
+}
