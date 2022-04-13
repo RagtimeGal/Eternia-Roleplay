@@ -7,12 +7,12 @@
           "items": [
             "minecraft:potion"
           ],
-          "nbt": "{eternia:{id:\"inf_invisibility\"}}"
+          "nbt": "{eternia:{id:\"regenerative_invisibility\"}}"
         }
       }
     }
   },
   "rewards": {
-    "function": "eternia:item/inf_invisibility/item"
+    "function": "eternia:item/regenerative_invisibility/item"
   }
 }

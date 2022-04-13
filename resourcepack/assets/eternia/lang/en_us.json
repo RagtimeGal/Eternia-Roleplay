@@ -3,5 +3,9 @@
   "pack.eternia": "Eternia Roleplay",
 
   "item.eternia.harp_crossbow": "Harp Crossbow",
-  "item.eternia.inf_invisibility": "Potion of Infinite Invisibility"
+  "item.eternia.regenerative_invisibility": "Regenerative Potion of Invisibility",
+  "item.eternia.regenerating_invisibility": "Regenerating Potion of Invisibility",
+
+  "actionbar.eternia.regenerating_invisibility.regenerating": "The bottle is %s/%s full",
+  "actionbar.eternia.regenerating_invisibility.regenerated": "The potion has regenerated"
 }

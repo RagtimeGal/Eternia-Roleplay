@@ -6,11 +6,10 @@
       "entity": "this",
       "predicate": {
         "equipment": {
-          "offhand": {
+          "mainhand": {
             "items": [
-              "minecraft:potion"
-            ],
-            "nbt": "{eternia:{id:\"inf_invisibility\"}}"
+              "minecraft:glass_bottle"
+            ]
           }
         }
       }

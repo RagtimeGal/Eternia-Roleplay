@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{eternia:{id:\"regenerative_invisibility\"},CustomPotionEffects:[{Id:14b,Amplifier:0b,Duration:6000,ShowParticles:0b},{Id:17b,Amplifier:1b,Duration:6600,ShowParticles:0b}],CustomPotionColor:8027532}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.eternia.regenerative_invisibility",
+                "italic": false
+              }
+            }
+          ],
+          "name": "minecraft:potion"
+        }
+      ]
+    }
+  ]
+}

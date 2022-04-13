@@ -9,17 +9,17 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomPotionEffects:[{Id:14b,Amplifier:0b,Duration:6000}],eternia:{id:\"inf_invisibility\"},Potion:\"minecraft:invisibility\"}"
+              "tag": "{eternia:{id:\"regenerating_invisibility\",fullness:[0,30]},CustomModelData:1}"
             },
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "item.eternia.inf_invisibility",
+                "translate": "item.eternia.regenerating_invisibility",
                 "italic": false
               }
             }
           ],
-          "name": "minecraft:potion"
+          "name": "minecraft:glass_bottle"
         }
       ]
     }
