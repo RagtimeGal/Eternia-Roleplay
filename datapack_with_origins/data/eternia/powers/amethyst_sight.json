@@ -1,0 +1,26 @@
+{
+  "name": "Amethyst Sight",
+  "description": "Amethyst makes nearby enemies visible",
+  "type": "origins:entity_glow",
+  "entity_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+          "type": "origins:in_tag",
+          "tag": "eternia:amethyst"
+        },
+        "radius": 5,
+        "shape": "sphere",
+        "comparison": ">=",
+        "compare_to": 1
+      },
+      {
+        "type": "origins:entity_group",
+        "group": "arthropod",
+        "inverted": true
+      }
+    ]
+  }
+}

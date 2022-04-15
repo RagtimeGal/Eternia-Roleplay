@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "eternia:amethyst_sight"
+    ],
+    "icon": "minecraft:amethyst_cluster",
+    "order": 4,
+    "impact": 1,
+    "name": "Cumbug",
+    "description": "Cumbug's origin."
+}
