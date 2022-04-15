@@ -1,0 +1,23 @@
+{
+	"type": "origins:action_over_time",
+	"interval": 20,
+	"entity_action": {
+		"type": "origins:and",
+		"actions":
+		[
+			{
+				"type": "origins:execute_command",
+				"command": "team join Silverfish @p",
+				"permission_level": 4
+			},
+			{
+				"type": "origins:execute_command",
+				"command": "team join Silverfish @e[type=minecraft:silverfish]",
+				"permission_level": 4
+			}
+		]
+	},
+
+	"name": "Kindred",
+	"description": "Silverfish know you, and they will not be hostile towards you."
+}

@@ -1,0 +1,22 @@
+{
+  "type": "origins:attacker_action_when_hit",
+  "entity_action":{
+    "type": "origins:execute_command",
+    "command": "summon silverfish ~ ~1 ~ {Team:Silverfish,PersistenceRequired:1,CustomName:\"\\\"Silverfish\\\"\"}",
+    "permission_level": 4
+  },
+  "condition": {
+    "type": "origins:on_block",
+    "block_condition": {
+      "type": "origins:block",
+      "block": "minecraft:stone"
+    }
+  },
+  "cooldown": 100,
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 8
+  },
+  "name":"Infest",
+  "description":"Whenever you are hit, and standing on stone, your brethren come to your aid."
+}

@@ -1,6 +1,11 @@
 {
     "powers": [
-        "eternia:amethyst_sight"
+        "eternia:humbug/amethyst_sight",
+        "eternia:humbug/burrow",
+        "eternia:humbug/infest",
+        "eternia:humbug/silverteam",
+        "eternia:humbug/silverfriend",
+        "eternia:humbug/leave_team"
     ],
     "icon": "minecraft:amethyst_cluster",
     "order": 4,
