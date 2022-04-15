@@ -3,4 +3,4 @@
 ####################
 
 ## Healing Harp
-execute if entity @s[predicate=eternia:entity/holding/custom_items/harp_crossbow] run function eternia:item/harp_crossbow/item 
+execute if entity @s[predicate=eternia:entity/holding/custom_items/harp_crossbow] run function eternia:item/harp_crossbow/item
