@@ -1,6 +1,8 @@
 {
     "replace": false,
     "origins": [
-        "eternia:humbug"
+        "eternia:humbug",
+        "eternia:isah",
+        "eternia:ragno"
     ]
 }

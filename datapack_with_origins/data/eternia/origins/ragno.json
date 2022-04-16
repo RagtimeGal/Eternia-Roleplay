@@ -1,0 +1,10 @@
+{
+    "powers": [
+          "eternia:ragno/tall"
+    ],
+    "icon": "minecraft:oak_leaves",
+    "order": 4,
+    "impact": 1,
+    "name": "The Leshen",
+    "description": "Ragno's origin."
+}

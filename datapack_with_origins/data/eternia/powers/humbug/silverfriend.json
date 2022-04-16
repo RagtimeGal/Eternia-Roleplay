@@ -7,12 +7,12 @@
 		[
 			{
 				"type": "origins:execute_command",
-				"command": "team join Silverfish @p",
+				"command": "team join Humbug @s",
 				"permission_level": 4
 			},
 			{
 				"type": "origins:execute_command",
-				"command": "team join Silverfish @e[type=minecraft:silverfish]",
+				"command": "team join Humbug @e[type=minecraft:silverfish]",
 				"permission_level": 4
 			}
 		]
