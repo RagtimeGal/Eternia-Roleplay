@@ -1,0 +1,13 @@
+{
+  "type": "origins:modify_damage_dealt",
+  "condition": {
+    "type": "origins:power_active",
+    "power": "eternia:ragno/wood_walk"
+  },
+  "modifier": {
+    "name": "Reduced damage while Wood Walking",
+    "operation": "addition",
+    "value": -1000
+  },
+    "hidden": true
+  }

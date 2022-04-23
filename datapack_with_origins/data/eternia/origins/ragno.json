@@ -1,10 +1,13 @@
 {
     "powers": [
-          "eternia:ragno/tall"
+        "eternia:ragno/tall",
+        "eternia:ragno/wood_walk",
+        "eternia:ragno/wood_phasing",
+        "eternia:ragno/wood_weakness"
     ],
-    "icon": "minecraft:oak_leaves",
+    "icon": "minecraft:oak_wood",
     "order": 4,
     "impact": 1,
-    "name": "The Leshen",
+    "name": "Ragno",
     "description": "Ragno's origin."
 }

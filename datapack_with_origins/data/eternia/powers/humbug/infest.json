@@ -2,7 +2,7 @@
   "type": "origins:attacker_action_when_hit",
   "entity_action":{
     "type": "origins:execute_command",
-    "command": "summon silverfish ~ ~1 ~ {Team:Silverfish,PersistenceRequired:1,CustomName:\"\\\"Silverfish\\\"\"}",
+    "command": "summon silverfish ~ ~1 ~ {Team:Humbug,PersistenceRequired:1,CustomName:\"\\\"Silverfish\\\"\"}",
     "permission_level": 4
   },
   "condition": {

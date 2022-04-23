@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rotten_flesh",
+    "minecraft:cod",
+    "minecraft:tropical_fish",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:beef",
+    "minecraft:porkchop",
+    "minecraft:mutton",
+    "minecraft:chicken",
+    "minecraft:rabbit",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:rabbit_stew",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_salmon",
+    "minecraft:spider_eye",
+    "pickyourpoison:blue_poison_dart_frog_bowl",
+    "pickyourpoison:golden_poison_dart_frog_bowl",
+    "pickyourpoison:green_poison_dart_frog_bowl",
+    "pickyourpoison:orange_poison_dart_frog_bowl",
+    "pickyourpoison:crimson_poison_dart_frog_bowl",
+    "pickyourpoison:red_poison_dart_frog_bowl",
+    "pickyourpoison:luxalamander_bowl"
+  ]
+}

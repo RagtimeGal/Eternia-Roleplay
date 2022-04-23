@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "eternia:jordyn/burrow",
+        "eternia:jordyn/jump",
+        "eternia:jordyn/golden_carrot",
+        "eternia:jordyn/vegetarian"
+    ],
+    "icon": "minecraft:carrot",
+    "order": 4,
+    "impact": 1,
+    "name": "Jordyn",
+    "description": "Jordyn's origin."
+}

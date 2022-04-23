@@ -1,10 +1,10 @@
 {
     "powers": [
-          "eternia:isah/lithovore"
+        "eternia:isah/stout"
     ],
     "icon": "minecraft:coal",
     "order": 4,
     "impact": 1,
-    "name": "The Forge",
+    "name": "Isah",
     "description": "Isah's origin."
 }
