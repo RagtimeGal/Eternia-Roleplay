@@ -1,0 +1,56 @@
+{
+  "type": "origins:multiple",
+  "speed_1": {
+    "type": "origins:self_action_when_hit",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "amplifier": 0,
+            "duration": 100
+        }
+    },
+    "condition": {
+      "type": "origins:health",
+      "comparison": "<",
+      "compare_to": 10
+    },
+    "cooldown": 0
+  },
+  "speed_2": {
+    "type": "origins:self_action_when_hit",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "amplifier": 1,
+            "duration": 100
+        }
+    },
+    "condition": {
+      "type": "origins:health",
+      "comparison": "<",
+      "compare_to": 5
+    },
+    "cooldown": 0
+  },
+  "speed_3": {
+    "type": "origins:self_action_when_hit",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "amplifier": 2,
+            "duration": 100
+        }
+    },
+    "condition": {
+      "type": "origins:health",
+      "comparison": "<",
+      "compare_to": 2
+    },
+    "cooldown": 0
+  },
+  "name": "Fight or Flight",
+  "description": "When attacked, if low on health, your flight instincts kick in enabling you to run faster."
+}

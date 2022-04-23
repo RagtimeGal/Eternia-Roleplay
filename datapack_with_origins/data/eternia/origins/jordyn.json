@@ -3,7 +3,8 @@
         "eternia:jordyn/burrow",
         "eternia:jordyn/jump",
         "eternia:jordyn/golden_carrot",
-        "eternia:jordyn/vegetarian"
+        "eternia:jordyn/vegetarian",
+        "eternia:jordyn/speed"
     ],
     "icon": "minecraft:carrot",
     "order": 4,

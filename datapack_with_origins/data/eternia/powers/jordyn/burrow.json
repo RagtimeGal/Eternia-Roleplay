@@ -40,13 +40,6 @@
       ]
     }
   },
-  "ignorewater": {
-    "type": "origins:ignore_water",
-    "condition": {
-      "type": "origins:power_active",
-      "power": "*:*_togglephase"
-    }
-  },
   "ascend":{
     "type": "origins:active_self",
     "entity_action": {
@@ -263,5 +256,5 @@
   },
 
   "name": "Burrowing",
-  "description": "Inheriting from your insectoid ancestors, you can burrow through most kinds of stone, but not very far."
+  "description": "Inheriting from your rodent ancestors, you can burrow through various substrate."
 }
