@@ -8,13 +8,19 @@ execute unless score @s eternia.forge matches 1.. store success score @s eternia
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/iron
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:deepslate_iron_ore 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/iron
+execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:raw_iron 1
+execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/iron
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:copper_ore 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/copper
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:deepslate_copper_ore 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/copper
+execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:raw_copper 1
+execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/copper
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:gold_ore 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/gold
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:deepslate_gold_ore 1
+execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/gold
+execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:raw_gold 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/gold
 execute unless score @s eternia.forge matches 1.. store success score @s eternia.forge run clear @s minecraft:redstone_ore 1
 execute if score @s eternia.forge matches 1 run function eternia:powers/isah/forge/smelt/redstone
