@@ -1,9 +1,17 @@
 {
     "powers": [
         "eternia:ragno/tall",
+        "eternia:ragno/vegetarian",
         "eternia:ragno/wood_walk",
         "eternia:ragno/wood_phasing",
-        "eternia:ragno/wood_weakness"
+        "eternia:ragno/wood_weakness",
+        "eternia:ragno/natural_armor",
+        "eternia:ragno/poison_immunity",
+        "eternia:ragno/movement_speed",
+        "eternia:ragno/burn",
+        "eternia:ragno/forest",
+        "eternia:ragno/desert",
+        "eternia:ragno/sun"
     ],
     "icon": "minecraft:oak_wood",
     "order": 4,

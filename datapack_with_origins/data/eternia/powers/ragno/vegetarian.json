@@ -1,0 +1,34 @@
+{
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:or",
+        "conditions": [
+          {
+            "type": "origins:ingredient",
+            "ingredient": {
+              "tag": "eternia:meat"
+            }
+          },
+          {
+            "type": "origins:meat"
+          }
+        ]
+      },
+      {
+        "type": "origins:food"
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "tag": "eternia:ignore_diet"
+        },
+        "inverted": true
+      }
+    ]
+  },
+  "name": "Vegetarian",
+  "description": "Your connection to the forest animals means you can't stomach the thought of eating them."
+}

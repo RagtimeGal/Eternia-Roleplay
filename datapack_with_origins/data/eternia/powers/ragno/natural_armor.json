@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "movement_speed_modification",
+    "attribute": "minecraft:generic.armor",
+    "value": 5,
+    "operation": "addition"
+  },
+  "name": "Plant Skin",
+  "description": "Your skin is made of bark, granting you natural armor and poison immunity, however this slows you down and makes you susceptible to fire."
+}
