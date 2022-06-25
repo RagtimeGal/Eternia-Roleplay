@@ -1,0 +1,19 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "function eternia:powers/isah/forge/check"
+  },
+  "cooldown": 200,
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/resource_bar.png",
+    "bar_index": 7
+  },
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": true
+  },
+  "name": "Living Forge",
+  "description": "You can smelt ores in your inventory at the price of your hunger. There is a short cooldown between smelting. There is no specific order as to what items it will smelt."
+}

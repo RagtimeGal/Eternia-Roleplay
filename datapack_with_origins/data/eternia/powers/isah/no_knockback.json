@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "movement_speed_modification",
+    "attribute": "minecraft:generic.knockback_resistance",
+    "value": 100,
+    "operation": "amount"
+  },
+  "hidden": true
+}

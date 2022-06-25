@@ -2,38 +2,15 @@
   "type": "origins:action_on_callback",
   "entity_action_chosen": {
     "type": "origins:execute_command",
-    "command": "scale set pehkui:hitbox_height 1.2 @s",
-    "permission_level": 4
-  },
-  "entity_action_chosen": {
-    "type": "origins:execute_command",
-    "command": "scale set pehkui:eye_height 1.2 @s",
-    "permission_level": 4
-  },
-  "entity_action_chosen": {
-    "type": "origins:execute_command",
-    "command": "scale add pehkui:reach 0.25 @s",
-    "permission_level": 4
+    "command": "function eternia:powers/ragno/entity_action_chosen"
   },
   "entity_action_removed": {
     "type": "origins:execute_command",
-    "command": "scale reset @s",
-    "permission_level": 4
+    "command": "scale reset @s"
   },
   "entity_action_respawned": {
     "type": "origins:execute_command",
-    "command": "scale set pehkui:hitbox_height 1.2 @s",
-    "permission_level": 4
-  },
-  "entity_action_respawned": {
-    "type": "origins:execute_command",
-    "command": "scale set pehkui:eye_height 1.2 @s",
-    "permission_level": 4
-  },
-  "entity_action_respawned": {
-    "type": "origins:execute_command",
-    "command": "scale add pehkui:reach 0.25 @s",
-    "permission_level": 4
+    "command": "function eternia:powers/ragno/entity_action_respawned"
   },
   "execute_chosen_when_orb": true,
 

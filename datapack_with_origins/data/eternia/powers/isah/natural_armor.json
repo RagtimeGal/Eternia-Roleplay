@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "movement_speed_modification",
+    "attribute": "minecraft:generic.armor",
+    "value": 5,
+    "operation": "addition"
+  },
+  "hidden": true
+}

@@ -1,6 +1,14 @@
 {
     "powers": [
-        "eternia:isah/stout"
+        "eternia:isah/forge",
+        "eternia:isah/stout",
+        "eternia:isah/lithovore",
+        "eternia:isah/no_food",
+        "eternia:isah/ignore_water",
+        "eternia:isah/movement_speed",
+        "eternia:isah/add_health",
+        "eternia:isah/natural_armor",
+        "eternia:isah/no_knockback"
     ],
     "icon": "minecraft:coal",
     "order": 4,

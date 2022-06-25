@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "movement_speed_modification",
+    "attribute": "minecraft:generic.max_health",
+    "value": 10,
+    "operation": "addition"
+  },
+  "hidden": true
+}
