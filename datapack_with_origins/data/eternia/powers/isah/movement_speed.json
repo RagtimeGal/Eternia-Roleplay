@@ -3,8 +3,8 @@
   "modifier": {
     "name": "movement_speed_modification",
     "attribute": "minecraft:generic.movement_speed",
-    "value": 0.8,
-    "operation": "amount"
+    "value": -0.1,
+    "operation": "multiply_base"
   },
   "hidden": true
 }

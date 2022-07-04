@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "eternia:necrymosa/dolphins_grace",
+        "eternia:necrymosa/raining",
+        "eternia:necrymosa/water_breathing",
+        "eternia:necrymosa/night_vision",
+        "eternia:necrymosa/invisibility",
+        "eternia:necrymosa/water_jet"
+    ],
+    "icon": "minecraft:potion",
+    "order": 4,
+    "impact": 1,
+    "name": "Necrymosa",
+    "description": "Necrymosa's origin."
+}

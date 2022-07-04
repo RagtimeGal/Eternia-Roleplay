@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "eternia:damien/teleport",
+        "eternia:damien/slow_falling"
+    ],
+    "icon": "minecraft:barrier",
+    "order": 4,
+    "impact": 1,
+    "name": "Damien",
+    "description": "Damiens origin."
+}
