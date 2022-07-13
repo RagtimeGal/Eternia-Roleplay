@@ -1,6 +1,10 @@
 {
     "powers": [
-      
+      "eternia:morgan/teleport",
+      "eternia:morgan/tall",
+      "eternia:morgan/nightly_effects",
+      "eternia:morgan/weakness",
+      "eternia:morgan/disable_shield"
     ],
     "icon": "minecraft:iron_axe",
     "order": 4,

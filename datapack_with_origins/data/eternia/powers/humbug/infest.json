@@ -17,6 +17,5 @@
     "should_render": true,
     "bar_index": 8
   },
-  "name":"Infest",
-  "description":"Whenever you are hit, and standing on stone, your brethren come to your aid."
+  "hidden": true
 }

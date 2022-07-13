@@ -12,6 +12,5 @@
   "condition": {
     "type": "origins:exposed_to_sun"
   },
-  "name": "Photosynthesis",
-  "description": "When exposed to the sun you do not exhaust. When in humid biomes you move faster, however, when in hot biomes you are weakened."
+  "hidden": true
 }

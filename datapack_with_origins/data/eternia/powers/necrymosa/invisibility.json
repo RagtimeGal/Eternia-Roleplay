@@ -33,6 +33,5 @@
       }
     ]
   },
-  "name": "Stealth",
-  "description": "If exposed to any water when this is activated you will go invisible for a short period of time"
+  "hidden": true
 }

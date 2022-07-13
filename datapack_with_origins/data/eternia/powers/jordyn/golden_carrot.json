@@ -33,6 +33,5 @@
       "item": "minecraft:golden_carrot"
     }
   },
-  "name": "Golden Capples",
-	"description": "Golden Carrots act as if they are Golden Apples."
+  "hidden": true
 }

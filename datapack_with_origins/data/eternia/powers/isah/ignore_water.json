@@ -205,6 +205,5 @@
       }
     }
   },
-  "name": "Dense & Stout",
-  "description": "You are shorter and as a result of your weight sink in water and walk slower. However, you also have natural armor, more health, and are sturdy in battle."
+  "hidden": true
 }

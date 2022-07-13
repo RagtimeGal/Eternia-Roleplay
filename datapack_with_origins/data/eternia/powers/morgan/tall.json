@@ -2,7 +2,7 @@
   "type": "origins:action_on_callback",
   "entity_action_chosen": {
     "type": "origins:execute_command",
-    "command": "function eternia:powers/ragno/entity_action_chosen"
+    "command": "function eternia:powers/morgan/entity_action_chosen"
   },
   "entity_action_removed": {
     "type": "origins:execute_command",
@@ -10,7 +10,7 @@
   },
   "entity_action_respawned": {
     "type": "origins:execute_command",
-    "command": "function eternia:powers/ragno/entity_action_respawned"
+    "command": "function eternia:powers/morgan/entity_action_respawned"
   },
   "execute_chosen_when_orb": true,
   "hidden": true

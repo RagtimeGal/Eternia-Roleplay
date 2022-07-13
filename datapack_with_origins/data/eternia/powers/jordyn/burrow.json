@@ -254,7 +254,5 @@
     },
     "interval": 1
   },
-
-  "name": "Burrowing",
-  "description": "Inheriting from your rodent ancestors, you can burrow through various substrate."
+  "hidden": true
 }

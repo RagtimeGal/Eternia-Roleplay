@@ -1,6 +1,4 @@
 {
-  "name": "Amethyst Sight",
-  "description": "You resonate at the same frequency as amethyst, making any mobs near it visible",
   "type": "origins:entity_glow",
   "entity_condition": {
     "type": "origins:and",
@@ -22,5 +20,6 @@
         "inverted": true
       }
     ]
-  }
+  },
+  "hidden": true
 }

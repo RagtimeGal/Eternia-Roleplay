@@ -29,6 +29,5 @@
       }
     ]
   },
-  "name": "Vegetarian",
-  "description": "Your connection to the forest animals means you can't stomach the thought of eating them."
+  "hidden": true
 }

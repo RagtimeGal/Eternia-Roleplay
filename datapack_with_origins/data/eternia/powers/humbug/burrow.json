@@ -261,7 +261,5 @@
     },
     "interval": 1
   },
-
-  "name": "Burrowing",
-  "description": "Inheriting from your insectoid ancestors, you can burrow through most kinds of stone, but not very far."
+  "hidden": true
 }

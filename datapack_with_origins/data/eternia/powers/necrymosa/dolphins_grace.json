@@ -13,6 +13,5 @@
     "type": "origins:submerged_in",
     "fluid": "minecraft:water"
   },
-  "name": "Submerged",
-  "description": "When submerged in water you gain dolphins grace, night vision, and water breathing."
+  "hidden": true
 }

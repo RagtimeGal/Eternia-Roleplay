@@ -17,7 +17,5 @@
 			}
 		]
 	},
-
-	"name": "Kindred",
-	"description": "Silverfish know you, and they will not be hostile towards you."
+  "hidden": true
 }

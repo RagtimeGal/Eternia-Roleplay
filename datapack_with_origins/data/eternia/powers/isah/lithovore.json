@@ -224,7 +224,5 @@
       }
     ]
   },
-  "hidden": false,
-  "name": "Lithovore",
-  "description": "Coal is your only food source; you are incapable of eating anything else."
+  "hidden": true
 }

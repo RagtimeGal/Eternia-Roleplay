@@ -21,6 +21,5 @@
     "key": "key.origins.secondary_active",
     "continuous": true
   },
-  "name": "High Jump",
-  "description": "You didn't skip leg day, allowing you to jump twice as high as normal when activated."
+  "hidden": true
 }

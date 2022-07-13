@@ -51,6 +51,5 @@
     },
     "cooldown": 0
   },
-  "name": "Fight or Flight",
-  "description": "When attacked, if low on health, your flight instincts kick in enabling you to run faster."
+  "hidden": true
 }

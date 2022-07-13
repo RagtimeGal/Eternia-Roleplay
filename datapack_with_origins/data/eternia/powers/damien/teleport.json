@@ -4,7 +4,7 @@
     "type": "origins:execute_command",
     "command": "function eternia:powers/damien/teleport"
   },
-  "cooldown": 300,
+  "cooldown": 400,
   "hud_render": {
     "should_render": true,
     "sprite_location": "origins:textures/gui/resource_bar.png",
@@ -14,6 +14,5 @@
     "key": "key.origins.primary_active",
     "continuous": true
   },
-  "name": "Teleport",
-  "description": "You can teleport up to 15 blocks into the direction youre facing, but you keep your Y-level"
+  "hidden": true
 }
