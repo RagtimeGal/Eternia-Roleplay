@@ -14,6 +14,11 @@
 				"type": "origins:execute_command",
 				"command": "team join Humbug @e[type=minecraft:silverfish]",
 				"permission_level": 4
+			},
+			{
+				"type": "origins:execute_command",
+				"command": "team join Humbug @e[type=adventurez:amethyst_golem]",
+				"permission_level": 4
 			}
 		]
 	},
