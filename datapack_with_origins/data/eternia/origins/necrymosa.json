@@ -7,7 +7,7 @@
         "eternia:necrymosa/invisibility",
         "eternia:necrymosa/water_jet"
     ],
-    "icon": "minecraft:potion",
+    "icon": "minecraft:water_bucket",
     "order": 4,
     "impact": 1,
     "name": "Necrymosa",

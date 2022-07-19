@@ -1,5 +1,5 @@
 {
-    "replace": false,
+    "replace": true,
     "origins": [
         "eternia:humbug",
         "eternia:isah",
@@ -7,6 +7,7 @@
         "eternia:jordyn",
         "eternia:damien",
         "eternia:necrymosa",
-        "eternia:morgan"
+        "eternia:morgan",
+        "eternia:woakey"
     ]
 }

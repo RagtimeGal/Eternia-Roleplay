@@ -1,13 +1,8 @@
 {
-  "type": "origins:stacking_status_effect",
-  "min_stacks": 0,
-  "max_stacks": 1,
-  "duration_per_stack": 50,
-  "effects": {
-    "effect": "minecraft:dolphins_grace",
-    "is_ambient": true,
-    "show_particles": false,
-    "show_icon": false
+  "type": "origins:modify_swim_speed",
+  "modifier": {
+    "operation": "addition",
+    "value": 0.025
   },
   "condition": {
     "type": "origins:submerged_in",

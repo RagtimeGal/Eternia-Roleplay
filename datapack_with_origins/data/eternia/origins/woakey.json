@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "eternia:woakey/invisible",
+        "eternia:woakey/toggle",
+        "eternia:woakey/hunger",
+        "eternia:woakey/weakness"
+    ],
+    "icon": "minecraft:barrier",
+    "order": 4,
+    "impact": 1,
+    "name": "Woakey",
+    "description": "Woakey's origin."
+}

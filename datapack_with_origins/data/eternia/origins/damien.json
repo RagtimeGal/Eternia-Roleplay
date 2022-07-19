@@ -3,7 +3,7 @@
         "eternia:damien/teleport",
         "eternia:damien/slow_falling"
     ],
-    "icon": "minecraft:barrier",
+    "icon": "minecraft:feather",
     "order": 4,
     "impact": 1,
     "name": "Damien",

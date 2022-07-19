@@ -8,7 +8,9 @@
         "eternia:isah/movement_speed",
         "eternia:isah/add_health",
         "eternia:isah/natural_armor",
-        "eternia:isah/no_knockback"
+        "eternia:isah/no_knockback",
+        "eternia:isah/water_breathing",
+        "eternia:isah/golem_hit"
     ],
     "icon": "minecraft:coal",
     "order": 4,

@@ -1,0 +1,9 @@
+{
+  "type": "origins:action_on_hit",
+  "bientity_action": {
+    "type": "origins:add_velocity",
+    "y": 0.8,
+    "z": 0.2
+  },
+  "hidden": true
+}

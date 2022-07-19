@@ -1,21 +1,18 @@
 {
-  "type": "origins:stacking_status_effect",
-  "min_stacks": 0,
-  "max_stacks": 1,
-  "duration_per_stack": 50,
-  "effects": {
-    "effect": "minecraft:speed",
-    "is_ambient": true,
-    "show_particles": false,
-    "show_icon": false
-  },
-  "condition": {
-    "type": "origins:biome",
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "addition",
+        "value": 0.04
+    },
+    "tick_rate": 20,
     "condition": {
-      "type": "origins:temperature",
-      "comparison": "<=",
-      "compare_to": 0.8
-    }
-  },
-  "hidden": true
+      "type": "origins:biome",
+      "condition": {
+        "type": "origins:temperature",
+        "comparison": "<=",
+        "compare_to": 0.8
+      }
+    },
+    "hidden": true
 }
