@@ -1,7 +1,7 @@
 {
   "type": "origins:toggle",
   "active_by_default": false,
-  "hidden": false,
+  "hidden": true,
   "key": {
     "key": "key.origins.primary_active",
     "continuous": true
